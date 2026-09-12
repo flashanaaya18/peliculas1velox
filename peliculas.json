@@ -1,5 +1,27 @@
 [
   {
+    "id": 1185806,
+    "titulo": "Paw Patrol: La dino película",
+    "sinopsis": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+    "poster": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "anio": "2026",
+    "servidores": [
+      {
+        "nombre": "Streamtape",
+        "url": "https://streamtape.com/e/KGzo8mWwYWt01Gw"
+      },
+      {
+        "nombre": "EarnVids",
+        "url": "https://earnvids.com/embed/1pm0m00c5it0"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://streamhg.com/e/iagbard88gdn"
+      }
+    ]
+  },
+  {
     "id": 2062,
     "titulo": "Ratatouille",
     "sinopsis": "Remy, una simpática rata, sueña en convertirse en un chef que pueda crear sus obras culinarias a su gusto. Pero cuando termina en la alcantarilla debajo de uno de los mejores restaurantes de París, el Roedor Gourmet, se encuentra en el lugar ideal para hacer realidad su sueño.",
