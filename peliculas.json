@@ -1,5 +1,27 @@
 [
   {
+    "id": 1440098,
+    "titulo": "Enfrentados: Marfil",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "anio": "2026",
+    "servidores": [
+      {
+        "nombre": "Streamtape",
+        "url": "https://streamtape.com/e/PGDYRBw0G9I0qBp"
+      },
+      {
+        "nombre": "EarnVids",
+        "url": "https://earnvids.com/embed/zyve6061z4k2"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hgcloud.to/e/l1cnfv84hiae"
+      }
+    ]
+  },
+  {
     "id": 964980,
     "titulo": "Air: La historia detrás del logo",
     "sinopsis": "La increíble asociación revolucionaria entre el entonces novato Michael Jordan y la incipiente división de baloncesto de Nike, que revolucionó el mundo de los deportes y la cultura contemporánea con la marca Air Jordan.",
