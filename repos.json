@@ -1,0 +1,16 @@
+{
+  "peliculas": [
+    {
+      "repo": "flashanaaya18/peliculas1velox",
+      "file": "peliculas.json",
+      "nombre": "Películas Principal"
+    }
+  ],
+  "series": [
+    {
+      "repo": "flashanaaya18/seriesvelox1",
+      "file": "series.json",
+      "nombre": "Series Principal"
+    }
+  ]
+}
