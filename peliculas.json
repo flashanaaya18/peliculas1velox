@@ -1,5 +1,31 @@
 [
   {
+    "id": 1522689,
+    "titulo": "¿Por qué me casé, entonces?",
+    "sinopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela. Cuando surgen dramas antiguos y nuevos, todos se preguntan: «¿Por qué fue que nos casamos?».",
+    "poster": "https://image.tmdb.org/t/p/w500/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "anio": "2026",
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/ibhgujynf279"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/ln0b25o0ncbt"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/inwu24gpkeb8"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/kxqewpwqqt1c"
+      }
+    ]
+  },
+  {
     "id": 1297311,
     "titulo": "Supremacía Quántica",
     "sinopsis": "La historia transcurre en un futuro amenazado por robots rebeldes y una inteligencia artificial todopoderosa, donde el Capitán Monroe y su tripulación deben correr contra el tiempo para evitar la caída de la humanidad  1. Todo se desata con el \"Proyecto Supremacía Cuántica\", un experimento científico que pretende crear el primer autómata verdaderamente consciente, y que rápidamente se convierte en un desastre",
