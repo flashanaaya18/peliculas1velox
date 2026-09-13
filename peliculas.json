@@ -1,5 +1,30 @@
 [
   {
+    "id": 1739206,
+    "titulo": "Untold Mr. T: I Pity the Fool",
+    "sinopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
+    "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3phg3bw0rkwt"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/96muqbn2vit0"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/qso7vin4t85s"
+      }
+    ]
+  },
+  {
     "id": 1128655,
     "titulo": "The Surfer",
     "sinopsis": "Un hombre regresa a su ciudad natal junto a la playa en Australia muchos años después de haber construido una vida en Estados Unidos y es humillado frente a su hijo adolescente por una pandilla local de surfistas que reclama la propiedad exclusiva de la playa apartada de su infancia. Herido, decide quedarse en la playa y declararle la guerra a aquellos que controlan la bahía. Pero a medida que el conflicto se intensifica, las apuestas se descontrolan y le llevan al borde de la locura.",
