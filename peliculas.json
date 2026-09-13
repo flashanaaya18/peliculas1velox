@@ -23,6 +23,11 @@
         "nombre": "Doodstream",
         "url": "https://doodstream.com/e/kxqewpwqqt1c"
       }
+    ],
+    "generos": [
+      "Comedia",
+      "Romance",
+      "Drama"
     ]
   },
   {
@@ -45,6 +50,12 @@
         "nombre": "VOE",
         "url": "https://voe.sx/e/3jvy8pzhcfht"
       }
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Animación",
+      "Aventura",
+      "Acción"
     ]
   },
   {
@@ -67,6 +78,9 @@
         "nombre": "VOE",
         "url": "https://voe.sx/e/oieegatafqnv"
       }
+    ],
+    "generos": [
+      "Comedia"
     ]
   },
   {
@@ -85,6 +99,10 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/64kohnu9jhoc"
       }
+    ],
+    "generos": [
+      "Animación",
+      "Acción"
     ]
   },
   {
@@ -107,6 +125,11 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/9ht0idjliq0x"
       }
+    ],
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Ciencia ficción"
     ]
   },
   {
@@ -129,6 +152,10 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/s4vu5a4p2qcn"
       }
+    ],
+    "generos": [
+      "Comedia",
+      "Drama"
     ]
   },
   {
@@ -151,6 +178,10 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/l1cnfv84hiae"
       }
+    ],
+    "generos": [
+      "Romance",
+      "Suspense"
     ]
   },
   {
@@ -173,6 +204,10 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/rc43jp2vb96q"
       }
+    ],
+    "generos": [
+      "Drama",
+      "Historia"
     ]
   },
   {
@@ -195,6 +230,10 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/1gv3gqdqr9rp"
       }
+    ],
+    "generos": [
+      "Romance",
+      "Comedia"
     ]
   },
   {
@@ -217,6 +256,12 @@
         "nombre": "StreamHG",
         "url": "https://hgcloud.to/e/y2qg4jljemth"
       }
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Fantasía",
+      "Acción"
     ]
   },
   {
@@ -239,6 +284,13 @@
         "nombre": "StreamHG",
         "url": "https://streamhg.com/e/iagbard88gdn"
       }
+    ],
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Fantasía",
+      "Comedia"
     ]
   },
   {
@@ -261,6 +313,12 @@
         "nombre": "StreamHG",
         "url": "https://streamhg.com/e/4n4lil4hn2xe"
       }
+    ],
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
     ]
   },
   {
@@ -275,6 +333,11 @@
         "nombre": "Streamtape",
         "url": "https://streamtape.com/e/P8RYry3o7KhAQb"
       }
+    ],
+    "generos": [
+      "Ciencia ficción",
+      "Misterio",
+      "Suspense"
     ]
   },
   {
@@ -297,6 +360,12 @@
         "nombre": "StreamHG",
         "url": "https://streamhg.com/e/7vrdybopydrf"
       }
+    ],
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Terror",
+      "Suspense"
     ]
   }
 ]
