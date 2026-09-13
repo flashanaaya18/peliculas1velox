@@ -1,5 +1,30 @@
 [
   {
+    "id": 1307384,
+    "titulo": "Volcán: Fuego bajo tierra",
+    "sinopsis": "Una reconocida vulcanóloga detecta señales inequívocas de una inminente erupción volcánica que podría devastar la ciudad. A medida que la actividad sísmica aumenta y los terremotos se intensifican, comienza una carrera contra el tiempo para evacuar, advertir a las autoridades y salvar vidas. Pero cuando la tierra empieza a romperse, cada decisión puede ser la última.",
+    "poster": "https://image.tmdb.org/t/p/w500/1Knvd73GFfW50F6wFEqQAQDqyUa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/miydeUpspKXPRHZ5llPp2mIn0Cb.jpg",
+    "anio": "2025",
+    "generos": [
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/jhtq3jgj4qgs"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/gx4yuica7qus"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/x1f0yqvzj77j"
+      }
+    ]
+  },
+  {
     "id": 1739206,
     "titulo": "Untold Mr. T: I Pity the Fool",
     "sinopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
