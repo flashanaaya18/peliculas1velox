@@ -1,5 +1,32 @@
 [
   {
+    "id": 1487864,
+    "titulo": "Nando entre dos mundos: Una película de Sintonía",
+    "sinopsis": "Nando, atrapado entre la vida familiar y sus obligaciones con el inframundo criminal, enfrenta una encrucijada imposible: decidir dónde depositar su lealtad.",
+    "poster": "https://image.tmdb.org/t/p/w500/jgIHdtYjvqNRMRcJFVnGUcLmNIb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+    "anio": "2026",
+    "generos": [
+      "Crimen",
+      "Suspense",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/9yd9inz6fjj9"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/6u3thjtipfw1"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/kf9iklfl9huf"
+      }
+    ]
+  },
+  {
     "id": 1588838,
     "titulo": "La fiera",
     "sinopsis": "Un grupo de amigos unidos por su amor a los deportes extremos descubre el salto base en traje de alas…, pero sentir que vuelas es uno de los mayores riesgos.",
