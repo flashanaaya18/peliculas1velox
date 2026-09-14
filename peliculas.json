@@ -1,5 +1,32 @@
 [
   {
+    "id": 1506560,
+    "titulo": "La Furia de los Thundermans",
+    "sinopsis": "Los nuevos poderes energéticos de Chloe dividen a los Thundermans sobre si entrenarla en casa o enviarla a una escuela de héroes. Pero cuando la decana de la escuela revela un peligroso plan, la familia se reúne para salvar a Chloe y a la ciudad.",
+    "poster": "https://image.tmdb.org/t/p/w500/7zgvtsSPFH4rnV4UEXt9aqNKzIB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+    "anio": "2026",
+    "generos": [
+      "Película de TV",
+      "Familia",
+      "Acción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/vnhp13o5xk3s"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/3clt8wcgfowj"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/o0hrf2erz5fk"
+      }
+    ]
+  },
+  {
     "id": 1496903,
     "titulo": "Caravaggio",
     "sinopsis": "Tras cinco años de preparación, este es el documental más extenso jamás realizado sobre Caravaggio. Con una obra maestra tras otra y el testimonio de destacados expertos de todo el mundo, sumerge al público en los relatos ocultos de la vida del artista, desentrañando pistas incrustadas en su arte.",
