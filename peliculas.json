@@ -1,5 +1,32 @@
 [
   {
+    "id": 1355228,
+    "titulo": "Gandhari",
+    "sinopsis": "Tras el secuestro de su pequeña hija y un brutal ataque que la deja temporalmente ciega, Bani se embarca en una desesperada búsqueda para encontrarla. Siguiendo las pistas hasta la misteriosa localidad de Joypurra, descubre una peligrosa red de trata de menores. Sin dejar que la pérdida de la vista la detenga, Bani se convierte en una fuerza implacable dispuesta a enfrentarse a cualquiera que se interponga entre ella y su hija.",
+    "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Drama",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/a812e9frwkx5"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/xpuydh0nmbup"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/olfldx3gcerc"
+      }
+    ]
+  },
+  {
     "id": 1137844,
     "titulo": "Mayday",
     "sinopsis": "Cuando un piloto naval estadounidense queda atrapado tras líneas enemigas en una misión secreta durante la Guerra Fría, su única oportunidad de sobrevivir es formar una alianza con un excéntrico exagente de la KGB.",
