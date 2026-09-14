@@ -1,5 +1,31 @@
 [
   {
+    "id": 1588838,
+    "titulo": "La fiera",
+    "sinopsis": "Un grupo de amigos unidos por su amor a los deportes extremos descubre el salto base en traje de alas…, pero sentir que vuelas es uno de los mayores riesgos.",
+    "poster": "https://image.tmdb.org/t/p/w500/wYCJdVniQwV7x61g37ffb6bX99Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Aventura"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/gua5c5bi21dt"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/ve7i0wotb029"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/sjukokvbnmxq"
+      }
+    ]
+  },
+  {
     "id": 1504358,
     "titulo": "No se desea buena suerte",
     "sinopsis": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
