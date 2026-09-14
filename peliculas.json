@@ -1136,10 +1136,13 @@
   {
     "id": 1558568,
     "titulo": "Gracias, equipo",
-    "sinopsis": "",
+    "sinopsis": "Tío Mochales es una empresa que, hace años, era la reina indiscutible del queso español, pero hoy intenta mantener las apariencias. Su última gran idea: organizar un retiro rural para fomentar el espíritu de equipo en el pueblo donde se fundó la empresa. Pero lo que pretendía ser una escapada para reencontrarse con los \"valores tradicionales\" se convierte en una trampa cuando descubren que se avecinan despidos, y muchos. Lo que prometía ser una escapada motivadora se convierte rápidamente en un campo de batalla de halagos, traiciones y filtraciones.",
     "poster": "https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
     "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
     "servidores": [
       {
         "nombre": "Morencius",
@@ -1153,9 +1156,6 @@
         "nombre": "VOE",
         "url": "https://voe.sx/e/oieegatafqnv"
       }
-    ],
-    "generos": [
-      "Comedia"
     ]
   },
   {
