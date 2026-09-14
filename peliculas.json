@@ -1,5 +1,33 @@
 [
   {
+    "id": 910850,
+    "titulo": "Mobile Suit Gundam Hathaway: El hechizo de una ninfa",
+    "sinopsis": "Hathaway Noa lidera a un grupo de rebeldes en un combate contra el corrupto Gobierno de la Federación. Pero cuando conoce a una misteriosa mujer, su determinación se pone a prueba.",
+    "poster": "https://image.tmdb.org/t/p/w500/nc6N2gh2fjlnY6q4R8ufLqDf10X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/dp9FPgUwPc2XIXYct2cQ1PgFv7f.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Ciencia ficción",
+      "Bélica",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/dqglhzs6a8bp"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/cx04jx7tr23w"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/pbcxim6pdsyr"
+      }
+    ]
+  },
+  {
     "id": 19386,
     "titulo": "He-Man y She-Ra: El Secreto de la Espada",
     "sinopsis": "¡La hora ha llegado! Después de tantos años, es hora de recuperar a la hija de Eternia. La puerta a un nuevo mundo se ha abierto y el Principe Adam tiene la misión de encontrar a aquella persona destinada a portar la espada mágica por el honor de Grayskull. Ahora He-Man y She-Ra tienen que liberar al Reino de Luna Brillante de la Horda, dirigida por Hordak, antes maestro y ahora enemigo de Skeletor, y expandir la rebelión con la esperanza de que algún día la hija de Eternia vuelva a casa.",
