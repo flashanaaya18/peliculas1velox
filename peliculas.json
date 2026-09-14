@@ -1,5 +1,32 @@
 [
   {
+    "id": 1340206,
+    "titulo": "El afinador",
+    "sinopsis": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+    "poster": "https://image.tmdb.org/t/p/w500/3B6mx5mhAPYvCHhyxYC83BlWGd0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "anio": "2026",
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/txkjbkmzguce"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/eu3y1tlc6axf"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/brbedbzpogqg"
+      }
+    ]
+  },
+  {
     "id": 1616131,
     "titulo": "Un hijo propio",
     "sinopsis": "En este impactante documental, una mujer desesperada por ser madre y agobiada por las expectativas familiares y sociales finge un embarazo y termina involucrada en un crimen.",
