@@ -1,5 +1,31 @@
 [
   {
+    "id": 1470130,
+    "titulo": "La asistente de la morgue",
+    "sinopsis": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales. Película basada en el videojuego del mismo nombre.",
+    "poster": "https://image.tmdb.org/t/p/w500/3loVbnQ9hmay4OA6QjV6yMpHRYf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+    "anio": "2026",
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/57287sdvo67y"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/o25z1f2jtg12"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/kf7ygyuwmwyh"
+      }
+    ]
+  },
+  {
     "id": 860508,
     "titulo": "Susurran tu nombre",
     "sinopsis": "Tras la desaparición de su hijo, un viudo recurre a la ayuda de su padre ausente: un detective retirado que, años atrás, encarceló al asesino serial vinculado con este caso.",
