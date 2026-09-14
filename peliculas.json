@@ -1,5 +1,32 @@
 [
   {
+    "id": 1375646,
+    "titulo": "Zona Cero",
+    "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+    "poster": "https://image.tmdb.org/t/p/w500/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Terror",
+      "Ciencia ficción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3ggv5elgtvu1"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/tfiupneut1qe"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/gzervydzofk0"
+      }
+    ]
+  },
+  {
     "id": 17202,
     "titulo": "¿Por Qué Nos Casamos?",
     "sinopsis": "Narra la historia de cuatro parejas de amigos universitarios que se reúnen en un retiro anual de una semana en las montañas de Colorado para evaluar el estado de sus matrimonios.",
