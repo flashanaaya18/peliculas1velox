@@ -1,5 +1,31 @@
 [
   {
+    "id": 1212934,
+    "titulo": "Olmo",
+    "sinopsis": "1979, Nuevo México, EE.UU. Olmo está atascado. Hoy le toca cuidar de su padre enfermo, aunque sólo tiene 14 años y preferiría estar con su mejor amigo, Miguel. Pero cuando Olmo es invitado a una fiesta por su deseada vecina Nina, hará lo que sea para librarse de sus obligaciones, embarcándose en un viaje de travesuras y caos. A medida que transcurre la noche, puede que llegue a amar el mismo lugar del que lleva tanto tiempo intentando escapar: su casa.",
+    "poster": "https://image.tmdb.org/t/p/w500/zPVWOGE2kSU7GjGNazkdwhkq6Yn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/aWIEKd0rmfIe4vB0b0HEkKCtfLZ.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Earnvids",
+        "url": "https://morencius.com/embed/2qc44o8uin5c"
+      },
+      {
+        "nombre": "Streamwish",
+        "url": "https://hglink.to/e/rw4car9brwg7"
+      },
+      {
+        "nombre": "Voe",
+        "url": "https://voe.sx/e/blrxhijqlwwn"
+      }
+    ]
+  },
+  {
     "id": 1412598,
     "titulo": "Ballena Asesina",
     "sinopsis": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
