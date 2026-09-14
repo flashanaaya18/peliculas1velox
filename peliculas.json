@@ -1,5 +1,33 @@
 [
   {
+    "id": 1530941,
+    "titulo": "新劇場版 銀魂 -吉原大炎上-",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/qL5xIPoloSWgTGSH4ZuuwWbhQ6A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3r6wmsq4canp"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/meccgtpq5s5v"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/jbcuotoh0d5l"
+      }
+    ]
+  },
+  {
     "id": 910850,
     "titulo": "Mobile Suit Gundam Hathaway: El hechizo de una ninfa",
     "sinopsis": "Hathaway Noa lidera a un grupo de rebeldes en un combate contra el corrupto Gobierno de la Federación. Pero cuando conoce a una misteriosa mujer, su determinación se pone a prueba.",
