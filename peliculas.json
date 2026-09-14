@@ -1,5 +1,32 @@
 [
   {
+    "id": 1471168,
+    "titulo": "Barreda",
+    "sinopsis": "En 1992, Ricardo Barreda era un dentista modesto que asesinó brutalmente a su esposa, suegra y dos hijas adultas en su casa familiar. Tachándose a sí mismo como una víctima, encendió una tormenta mediática y alimentó un escándalo nacional.",
+    "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Crimen",
+      "Historia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/7m5oyo7uxogu"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/y51atmufsmk8"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/rtp0js77nmwu"
+      }
+    ]
+  },
+  {
     "id": 1744462,
     "titulo": "Una mirada extendida a Grand Theft Auto VI",
     "sinopsis": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
