@@ -1,5 +1,32 @@
 [
   {
+    "id": 1412598,
+    "titulo": "Ballena Asesina",
+    "sinopsis": "Las mejores amigas Maddie y Trish quedan atrapadas en una remota laguna con la peligrosa orca Ceto.",
+    "poster": "https://image.tmdb.org/t/p/w500/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+    "anio": "2026",
+    "generos": [
+      "Suspense",
+      "Terror",
+      "Acción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/913yqmya34fc"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/vv4o8kceyyu6"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/axen8geihwhc"
+      }
+    ]
+  },
+  {
     "id": 83533,
     "titulo": "Avatar: Fuego y ceniza",
     "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
