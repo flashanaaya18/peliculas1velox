@@ -1,5 +1,32 @@
 [
   {
+    "id": 37709,
+    "titulo": "Mirageman",
+    "sinopsis": "Maco Gutierrez, un obsesivo artista marcial, trabaja como guardia de seguridad en un topless para financiar el tratamiento de su hermano menor que se encuentra postrado en un hospital psiquiátrico. Por azar, Maco se topa una noche con un robo a mano armada el cual detiene con éxito. Al día siguiente los noticieros hablarán de un nuevo héroe incógnito. Su hermano menor comenzará a tener notorias mejorías tras la aparición de este justiciero, razón suficiente para que Maco comience su carrera de héroe enmascarado para sanar a su hermano.",
+    "poster": "https://image.tmdb.org/t/p/w500/f7UWxImO5LDBDWy0lOC2gAl5RFa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1ZZj5v1yUaEmvAUSCsbds17f7rM.jpg",
+    "anio": "2007",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/a49ajhps63q4"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/4jt4n03vywzl"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/3wwkmciynuzz"
+      }
+    ]
+  },
+  {
     "id": 82393,
     "titulo": "Mandrill",
     "sinopsis": "",
