@@ -1,5 +1,30 @@
 [
   {
+    "id": 18722,
+    "titulo": "Mr. Baseball",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/luBQo8ZruraSngFOnqTkRNxsuxD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tMdkN0b81Dob3JnIuEQa08tdmx.jpg",
+    "anio": "1992",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/vutw5chlf5ty"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/6lesok5u10dw"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/olgu8blthul3"
+      }
+    ]
+  },
+  {
     "id": 24940,
     "titulo": "Head Over Heels",
     "sinopsis": "",
