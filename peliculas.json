@@ -1,5 +1,36 @@
 [
   {
+    "id": 1081003,
+    "titulo": "Supergirl",
+    "sinopsis": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una \"búsqueda asesina de venganza\".",
+    "poster": "https://image.tmdb.org/t/p/w500/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/i1urx7t68ze4"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/vxh3re9oyxce"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/ex7fnlinlyvy"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/emgecvr2ei5k"
+      }
+    ]
+  },
+  {
     "id": 1308767,
     "titulo": "El Joven Washington",
     "sinopsis": "Se basa en la juventud de George Washington —Padre Fundador y primer presidente de los Estados Unidos— y se centra en sus experiencias y su mando militar durante la guerra Franco-India, entre 1753 y 1755.",
