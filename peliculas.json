@@ -1,5 +1,31 @@
 [
   {
+    "id": 1599993,
+    "titulo": "Animales",
+    "sinopsis": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
+    "poster": "https://image.tmdb.org/t/p/w500/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/8fv3zc602gzl"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/wc1v6sl8v1be"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/hjt51ghexjbf"
+      }
+    ]
+  },
+  {
     "id": 1391325,
     "titulo": "La familia Benetón +2",
     "sinopsis": "Toni Benetón (Leo Harlem) cree tener bajo control a su caótica y divertida familia multicultural. La llegada inesperada de dos nuevos bebés pone la casa patas arriba de nuevo, duplicando tanto los enredos como las risas y la aventura.",
