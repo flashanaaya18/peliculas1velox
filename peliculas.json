@@ -1,5 +1,34 @@
 [
   {
+    "id": 19386,
+    "titulo": "He-Man y She-Ra: El Secreto de la Espada",
+    "sinopsis": "¡La hora ha llegado! Después de tantos años, es hora de recuperar a la hija de Eternia. La puerta a un nuevo mundo se ha abierto y el Principe Adam tiene la misión de encontrar a aquella persona destinada a portar la espada mágica por el honor de Grayskull. Ahora He-Man y She-Ra tienen que liberar al Reino de Luna Brillante de la Horda, dirigida por Hordak, antes maestro y ahora enemigo de Skeletor, y expandir la rebelión con la esperanza de que algún día la hija de Eternia vuelva a casa.",
+    "poster": "https://image.tmdb.org/t/p/w500/chIpTWBRdAZZuZQI3OXoBMabzsf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pfC41MO3o6qRiunDGBtusb2jOiq.jpg",
+    "anio": "1985",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/cua0o1242hn9"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/ih5yfwi8ldhf"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/qan5snrh6qbt"
+      }
+    ]
+  },
+  {
     "id": 28214,
     "titulo": "11人いる!",
     "sinopsis": "",
