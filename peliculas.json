@@ -1,5 +1,30 @@
 [
   {
+    "id": 1616131,
+    "titulo": "Un hijo propio",
+    "sinopsis": "En este impactante documental, una mujer desesperada por ser madre y agobiada por las expectativas familiares y sociales finge un embarazo y termina involucrada en un crimen.",
+    "poster": "https://image.tmdb.org/t/p/w500/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/kh898hfkzxx5"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/is35t2rz4l9h"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/1ylvbv8o3jlb"
+      }
+    ]
+  },
+  {
     "id": 350499,
     "titulo": "Pokémon: Hoopa y un duelo histórico",
     "sinopsis": "¡El Pokémon singular Hoopa es la estrella de la película Pokémon Hoopa y un duelo histórico! Cuando Ash, Pikachu y sus amigos visitan una desierta ciudad al lado del mar, se encuentran con el Pokémon singular Hoopa, que tiene la habilidad de hacerse con todo lo que se le antoja, incluidos personas y Pokémon, con sus mágicos anillos. Después de un extraño y escalofriante incidente, se enteran de la historia de un valiente héroe que, mucho tiempo atrás, logró apaciguar la furia de un aterrador Pokémon. ¡Pero ahora existe el peligro de que la amenaza que ha permanecido contenida durante muchos años quede desatada de nuevo! ¿Podrá Ash ayudar a su nuevo amigo a que supere su lado oscuro... o terminará el peligroso secreto desembocando en un duelo de leyendas?",
