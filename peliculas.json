@@ -1,5 +1,34 @@
 [
   {
+    "id": 1273221,
+    "titulo": "Scary Movie: Terroríficamente incorrecta",
+    "sinopsis": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "poster": "https://image.tmdb.org/t/p/w500/cAvdDPtiuVCauhjCwqK4EX2woHL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/yceycz87sjtc"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/brces8d4dl45"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/8fxlxkktk9jt"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/u21bd5y4vzgy"
+      }
+    ]
+  },
+  {
     "id": 1084244,
     "titulo": "Toy Story 5",
     "sinopsis": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
