@@ -1,5 +1,49 @@
 [
   {
+    "id": 176983,
+    "titulo": "One Piece: Z",
+    "sinopsis": "Un ex-almirante de la Marina roba el Dyna Stones, y se cruza en el camino de los Piratas de Sombrero de Paja.",
+    "poster": "https://image.tmdb.org/t/p/w500/guzIZgMMUp11qDA22clAdVXRids.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/cMXp028BZIdiA9OFfiK4gSYYtcr.jpg",
+    "anio": "2012",
+    "generos": [
+      "Animación",
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/9e6f5kdbjirg"
+      },
+      {
+        "nombre": "Filemoon",
+        "url": "https://bysejikuar.com/e/5caaql7q1asb"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://filelions.to/v/ag2a85mlqg4f"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/edityyeh8uvj"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/7vc1nic8pgl0"
+      },
+      {
+        "nombre": "Streamtape",
+        "url": "https://streamtape.com/e/Pj9Ox93oPyT01AY"
+      },
+      {
+        "nombre": "Netu",
+        "url": "https://waaw.to/f/rTTlZwDeUMXo"
+      }
+    ]
+  },
+  {
     "id": 568012,
     "titulo": "One Piece: Estampida",
     "sinopsis": "La película tiene lugar durante la Pirates Expo, \"hecha por piratas para piratas\", donde los piratas de todo el mundo, incluidos algunos de sus personajes más infames, se unen a la búsqueda de un gran tesoro para encontrar un tesoro perdido, esta vez el tesoro. Perteneció nada menos que a Gold Roger!",
