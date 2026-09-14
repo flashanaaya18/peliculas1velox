@@ -1,5 +1,32 @@
 [
   {
+    "id": 1517123,
+    "titulo": "En elino",
+    "sinopsis": "Veneno, un joven vagabundo rebelde, frecuenta restaurantes de carretera donde se acuesta con camioneros. Con una necesidad urgente de que alguien le lleve, conoce a Muñeco, un conductor duro y reservado. Convence a Muñeco para que le adentre en el hipermasculino mundo del transporte a larga distancia a través del norte de México. Mientras viajan juntos creándose una inesperada intimidad entre ellos, las sombras del pasado de Veneno resurgen, poniendo en peligro la vida de ambos.",
+    "poster": "https://image.tmdb.org/t/p/w500/zhgF99qGTf6EfRYnghGUD57cDtZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hcPbtkReett3egrOnQRII2PqqvK.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Suspense",
+      "Crimen"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/z6w87ykj6kxc"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/ra1l255r3k6c"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/knaqzn1k06xq"
+      }
+    ]
+  },
+  {
     "id": 1760262,
     "titulo": "Instadocus: El avión señuelo",
     "sinopsis": "Una amenaza crítica. Un escape clandestino. ¿Y un camión de catering turco? Mediante relatos de testigos, «Instadocus» investiga qué pasó a bordo del avión presidencial de EE. UU.",
