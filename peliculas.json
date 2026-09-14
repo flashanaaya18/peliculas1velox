@@ -1,5 +1,31 @@
 [
   {
+    "id": 1744876,
+    "titulo": "Fito Páez: El mundo cabe en una canción",
+    "sinopsis": "Un documental que observa, escucha e interactúa con Fito Páez desde una profunda intimidad. La cámara, casi invisible, es testigo de cada uno de sus movimientos, acompañándolo durante más de un año entre grabaciones, ensayos, giras y presentaciones en las principales ciudades de América Latina, Europa y Estados Unidos. Es también un recorrido por la vida de uno de los artistas más grandes de la música en español: sus amores y desamores, sus hijos y amistades, los excesos, las tragedias, los fracasos y los éxitos.",
+    "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental",
+      "Música"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/7bncjpe5iyyg"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/fywe6en9z8m1"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/6ro1wkcl2hpp"
+      }
+    ]
+  },
+  {
     "id": 1739202,
     "titulo": "Al descubierto: Raygun, la breakdancer viral",
     "sinopsis": "Desde académica australiana hasta meme global, la breakdancer «Raygun» relata su peculiar camino hasta los Juegos Olímpicos… y la infamia que le siguió.",
