@@ -1,5 +1,31 @@
 [
   {
+    "id": 1127384,
+    "titulo": "Impacto Mortal",
+    "sinopsis": "Un grupo de pasajeros internacionales en ruta de Los Ángeles a Shanghai se ven obligados a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Ahora deben superar el frenesí de los tiburones merodeantes.",
+    "poster": "https://image.tmdb.org/t/p/w500/A0kR1btRg3aa6bphfD9BnB66fL9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+    "anio": "2026",
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/rd5xsu5mvlef"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/sbehmcmhyf8o"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/eenim9in2ass"
+      }
+    ]
+  },
+  {
     "id": 938150,
     "titulo": "Conexión peligrosa",
     "sinopsis": "Un joven hacker es engañado para atracar la cuenta bancaria de una mujer desprevenida.",
