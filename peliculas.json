@@ -1,5 +1,32 @@
 [
   {
+    "id": 950028,
+    "titulo": "La invitación",
+    "sinopsis": "El matrimonio de Joe y Angela pende de un hilo. Cuando invitan a sus enigmáticos vecinos de arriba a una cena, la noche toma un rumbo inesperado.",
+    "poster": "https://image.tmdb.org/t/p/w500/dvMLCv3u989LO1tLLDYMJcK8TZo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/pv9z48vd2xwl"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/fnperwy1rngt"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/02mgfm7cjo9v"
+      }
+    ]
+  },
+  {
     "id": 1232350,
     "titulo": "Memorias de un cuerpo que arde",
     "sinopsis": "Criadas en una era represiva donde la sexualidad era un tabú, Ana, Patricia y Mayela desarrollaron tácitamente su concepción de la feminidad. Ahora se atreven a hablar de ello abiertamente. Sus recuerdos, secretos y anhelos, previamente no expresados, son recreados por una mujer de 65 años, en que sus voces se encarnan. Un poético documental que se alzó con el Premio del Público de la sección Panorama del Festival de Berlín y que es candidata al Óscar Internacional por Costa Rica.",
