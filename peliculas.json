@@ -1,5 +1,44 @@
 [
   {
+    "id": 1368337,
+    "titulo": "La Odisea",
+    "sinopsis": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+    "poster": "https://image.tmdb.org/t/p/w500/mKPGRRyXIwN8JOLhAbWnxV1gNrS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+    "anio": "2026",
+    "generos": [
+      "Aventura",
+      "Acción",
+      "Fantasía"
+    ],
+    "servidores": [
+      {
+        "nombre": "VimeusCAM",
+        "url": "https://vimeus.com/e/movie?tmdb=1368337&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
+      },
+      {
+        "nombre": "VoeTS",
+        "url": "https://voe.sx/e/dyowb3om6nxf"
+      },
+      {
+        "nombre": "DoodTS",
+        "url": "https://dsvplay.com/e/za6esxo6hn8g"
+      },
+      {
+        "nombre": "StreamwishTS",
+        "url": "https://vibuxer.com/e/"
+      },
+      {
+        "nombre": "LulustreamTS",
+        "url": "https://lulustream.com/e/u85h6k6ysi14"
+      },
+      {
+        "nombre": "EarnvidsTS",
+        "url": "https://morencius.com/embed/bxj0xwa5dhcs"
+      }
+    ]
+  },
+  {
     "id": 1291595,
     "titulo": "La noche del demonio: Están entre nosotros",
     "sinopsis": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
