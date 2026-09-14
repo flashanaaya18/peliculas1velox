@@ -1284,27 +1284,27 @@
   {
     "id": 1440098,
     "titulo": "Enfrentados: Marfil",
-    "sinopsis": "",
+    "sinopsis": "Narra la historia de Marfil Cortés, una joven de 20 años e hija de un poderoso empresario español que lleva una vida privilegiada en Nueva York, cuyo mundo da un vuelco repentino al ser secuestrada y liberada sin ninguna explicación aparente.",
     "poster": "https://image.tmdb.org/t/p/w500/umlft1ztFbUcnHf960pXJocjpdv.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
     "anio": "2026",
-    "servidores": [
-      {
-        "nombre": "Streamtape",
-        "url": "https://streamtape.com/e/PGDYRBw0G9I0qBp"
-      },
-      {
-        "nombre": "EarnVids",
-        "url": "https://earnvids.com/embed/zyve6061z4k2"
-      },
-      {
-        "nombre": "StreamHG",
-        "url": "https://hgcloud.to/e/l1cnfv84hiae"
-      }
-    ],
     "generos": [
       "Romance",
       "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/gh6e1jhibeyx"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/sv6aj2fts2lr"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/eq5vdpgeqy1y"
+      }
     ]
   },
   {
