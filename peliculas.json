@@ -1,5 +1,32 @@
 [
   {
+    "id": 1729723,
+    "titulo": "Yellow Mirror: La realidad paralela de Homero",
+    "sinopsis": "Una lámpara defectuosa revela una desgarradora verdad sobre lo que Homero cree que es la realidad, y una tableta impulsada por inteligencia artificial se hace amiga de Maggie y la controla. Los Simpson luchan por encontrar la luz a través de dos oscuras historias sobre lo curioso y lo extraño en este episodio exclusivo de Disney+.",
+    "poster": "https://image.tmdb.org/t/p/w500/wybH2AK9kazNW7WYKST1YzUKP75.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3r6ikr7h15ay"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/obai5dqedd4u"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/wr2spx6sadid"
+      }
+    ]
+  },
+  {
     "id": 957119,
     "titulo": "Amor Fuera De Tiempo",
     "sinopsis": "Dallas, una estudiante determinada que sueña con entrar a la mejor escuela de danza del país, se cruza con Drayton, el mariscal de campo estrella que duda sobre s ufuturo. La química entre ellos es innegable, pero sus ambiciones opuestas ponen a prueba si el amor puede superar sus diferencias.",
