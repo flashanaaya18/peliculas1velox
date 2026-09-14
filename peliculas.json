@@ -1,5 +1,46 @@
 [
   {
+    "id": 188070,
+    "titulo": "Dragon Ball: Toriko One Piece Y DBZ Especial colaboracion",
+    "sinopsis": "Un crossover especial para transmitir el 7 de abril de 2013, en Fuji TV. Fue hecho para conmemorar el comienzo del tercer año del anime Toriko, que se estrenó en abril de 2011, y presenta personajes de Dragon Ball Z, One Piece y Toriko. El especial se divide en dos partes.",
+    "poster": "https://image.tmdb.org/t/p/w500/1azUShBxKqHUUJf61BIpnJTtAWO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/iCK2cw43Zb4dppHvufJg0RXaVes.jpg",
+    "anio": "2013",
+    "generos": [
+      "Acción",
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Animación"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/2fofr08qv57c"
+      },
+      {
+        "nombre": "Filemoon",
+        "url": "https://bysejikuar.com/e/p4vk4fdc0085"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://filelions.to/v/hqanm85hrda6"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/dny2x12qhooz"
+      },
+      {
+        "nombre": "Streamtape",
+        "url": "https://streamtape.com/e/gL8G3QerLZSqyBr"
+      },
+      {
+        "nombre": "Wolfstream",
+        "url": "https://wolfstream.tv/e/c45lxdll2anv"
+      }
+    ]
+  },
+  {
     "id": 176983,
     "titulo": "One Piece: Z",
     "sinopsis": "Un ex-almirante de la Marina roba el Dyna Stones, y se cruza en el camino de los Piratas de Sombrero de Paja.",
