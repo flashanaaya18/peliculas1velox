@@ -1,5 +1,33 @@
 [
   {
+    "id": 1493400,
+    "titulo": "Camp Rock 3",
+    "sinopsis": "En Camp Rock, los Connect 3 están buscando un nuevo grupo para abrir sus conciertos en la gira. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar ese codiciado lugar desata rivalidades y romances, mientras todos luchan por destacar.",
+    "poster": "https://image.tmdb.org/t/p/w500/lUGn8nzz0wU0zoApaex8WmwaCpT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+    "anio": "2026",
+    "generos": [
+      "Música",
+      "Comedia",
+      "Drama",
+      "Película de TV"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/p7tlcc2q8s7t"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/83k68ud4yywk"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/ah1gp7mhspyj"
+      }
+    ]
+  },
+  {
     "id": 1340206,
     "titulo": "El afinador",
     "sinopsis": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
