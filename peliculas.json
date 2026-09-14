@@ -1,5 +1,43 @@
 [
   {
+    "id": 1291595,
+    "titulo": "La noche del demonio: Están entre nosotros",
+    "sinopsis": "Un trío de acosadores se infiltra en un tranquilo suburbio y obliga a una nueva familia a entrar en el plano astral, donde descubren una verdad aterradora: el Más Allá se está filtrando al mundo real.",
+    "poster": "https://image.tmdb.org/t/p/w500/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "anio": "2026",
+    "generos": [
+      "Terror",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "VimeusCAM",
+        "url": "https://vimeus.com/e/movie?tmdb=1291595&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
+      },
+      {
+        "nombre": "VoeCAM",
+        "url": "https://voe.sx/e/w3oc24jjfdca"
+      },
+      {
+        "nombre": "StreamwishCAM",
+        "url": "https://vibuxer.com/e/nkj6qs8fluoc"
+      },
+      {
+        "nombre": "LulustreamCAM",
+        "url": "https://lulustream.com/e/k5xidgl56nb7"
+      },
+      {
+        "nombre": "DoodCAM",
+        "url": "https://playmogo.com/d/4b0cdbftuast"
+      },
+      {
+        "nombre": "EarnvidsCAM",
+        "url": "https://morencius.com/embed/hzd46up2hzo2"
+      }
+    ]
+  },
+  {
     "id": 1386315,
     "titulo": "Carrera contra el tiempo",
     "sinopsis": "En el thriller psicológico Carrera contra el tiempo, una sola llamada destruye la vida de Maia Marten, una destacada abogada londinense, durante su entrenamiento matutino: secuestraron a su hijo. Para recuperarlo, deberá correr sin parar y obedecer cada orden despiadada sin confiar en nadie. Cada segundo es una prueba de cuán lejos puede llegar una madre para salvar a su hijo.",
