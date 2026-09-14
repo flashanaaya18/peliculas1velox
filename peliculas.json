@@ -1,5 +1,31 @@
 [
   {
+    "id": 1137844,
+    "titulo": "Mayday",
+    "sinopsis": "Cuando un piloto naval estadounidense queda atrapado tras líneas enemigas en una misión secreta durante la Guerra Fría, su única oportunidad de sobrevivir es formar una alianza con un excéntrico exagente de la KGB.",
+    "poster": "https://image.tmdb.org/t/p/w500/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/bx70ylytsf44"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/9jezrb6p9qu6"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/m8bmj84uhsh6"
+      }
+    ]
+  },
+  {
     "id": 1517123,
     "titulo": "En elino",
     "sinopsis": "Veneno, un joven vagabundo rebelde, frecuenta restaurantes de carretera donde se acuesta con camioneros. Con una necesidad urgente de que alguien le lleve, conoce a Muñeco, un conductor duro y reservado. Convence a Muñeco para que le adentre en el hipermasculino mundo del transporte a larga distancia a través del norte de México. Mientras viajan juntos creándose una inesperada intimidad entre ellos, las sombras del pasado de Veneno resurgen, poniendo en peligro la vida de ambos.",
