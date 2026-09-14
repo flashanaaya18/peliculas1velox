@@ -1,5 +1,30 @@
 [
   {
+    "id": 1074074,
+    "titulo": "El ser querido",
+    "sinopsis": "El aclamado director de cine Esteban Martínez (Bardem) es una leyenda tanto por sus películas como por un pasado marcado por la violencia y los excesos. En su nuevo proyecto, le ofrece un papel a su hija Emilia (Luengo) con el pretexto de ayudarla a relanzar su estancada carrera como actriz. Convivir en el set fomentará una cercanía que no han compartido en años, pero también reabrirá viejas heridas que nunca cicatrizaron.",
+    "poster": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/juprkbjtamlv"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/nsb131rjtzzz"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/ph5imveh2frw"
+      }
+    ]
+  },
+  {
     "id": 1530941,
     "titulo": "新劇場版 銀魂 -吉原大炎上-",
     "sinopsis": "",
