@@ -1,5 +1,31 @@
 [
   {
+    "id": 1437703,
+    "titulo": "Moscas",
+    "sinopsis": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
+    "poster": "https://image.tmdb.org/t/p/w500/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/hba95wzu7zpe"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/0d1muh6rlraq"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/sistqjjstok8"
+      }
+    ]
+  },
+  {
     "id": 1535809,
     "titulo": "Érase una vez en un Ring",
     "sinopsis": "Un luchador enmascarado llamado \"Black Angel\" nos adentra en el mundo de la lucha libre mexicana, mientras testimonios reales y escenas nunca antes vistas revelan el corazón y alma detrás del ring.",
