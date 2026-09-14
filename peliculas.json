@@ -1,5 +1,31 @@
 [
   {
+    "id": 1632473,
+    "titulo": "Esto, aquello y todo lo demás",
+    "sinopsis": "Una guionista ha reconstruido su vida con gran esfuerzo, pero todo empieza a desmoronarse cuando su madre reaparece tras 27 años con un secreto.",
+    "poster": "https://image.tmdb.org/t/p/w500/q71j2435ZU7UDhROJz5UjHBEk3J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/6yLIoPWFKwXO2ChTTk6NyNT7Lk2.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama",
+      "Familia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/ffai3d79nzm8"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/1rwxjrxlo7a8"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/dbxp0bcytb4w"
+      }
+    ]
+  },
+  {
     "id": 1493400,
     "titulo": "Camp Rock 3",
     "sinopsis": "En Camp Rock, los Connect 3 están buscando un nuevo grupo para abrir sus conciertos en la gira. Entre los campistas, como Sage, Desi, Rosie y otros, la competencia por ganar ese codiciado lugar desata rivalidades y romances, mientras todos luchan por destacar.",
