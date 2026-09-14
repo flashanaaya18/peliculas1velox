@@ -1,5 +1,30 @@
 [
   {
+    "id": 1315843,
+    "titulo": "El turno del papá",
+    "sinopsis": "Roberta está cansada de cuidar la casa y a los niños ella sola, así que decide tomarse unas vacaciones, dejando a su esposo a cargo de los niños. El resultado es que la casa se vuelve un caos mientras Fred intenta equilibrar las demandas familiares con sus responsabilidades laborales. Entre risas y desorden, la película muestra cómo una familia puede superar los desafíos cuando se mantienen unidos.",
+    "poster": "https://image.tmdb.org/t/p/w500/neHwYIcI4J17lJjKiX5iLab3QIS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pt9wLsvNywyPT3485P30CPRICU.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/vaorx310gv7j"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/zkqhn5a0ojg0"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/whmtgmvhvg5x"
+      }
+    ]
+  },
+  {
     "id": 426249,
     "titulo": "Lords of Chaos",
     "sinopsis": "La historia de un joven que quiere darle un nuevo giro a la escena del black metal en Oslo, Noruega, proyecto que trae fatales consecuencias para todos los involucrados. Biopic de la banda de black metal noruego Mayhem",
