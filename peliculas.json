@@ -1,5 +1,31 @@
 [
   {
+    "id": 772506,
+    "titulo": "Amor es amor",
+    "sinopsis": "Amor es amor es una película mexicana dirigida por Rob Schneider.",
+    "poster": "https://image.tmdb.org/t/p/w500/5ae4v1W4hyAclTJw97aIAmr6OAE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/ei2xma0fujgm"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/84cnnnlytnr8"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/vajbfob4lewq"
+      }
+    ]
+  },
+  {
     "id": 112755,
     "titulo": "Evelyn",
     "sinopsis": "Evelyn, narra la desgarradora historia de una joven peruana que viaja a España con la esperanza de mejorar su vida. Creyendo que trabajará en un restaurante, pero poco después descubrirá que ha sido secuestrada para ser explotada sexualmente.",
