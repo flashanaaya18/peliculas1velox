@@ -1160,6 +1160,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/gytLKZR6X3w8iwpgPuzILY77Wda.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/zEsFCfW7c8x2X7q3uLbZYoGka7O.jpg",
     "anio": "2026",
+    "generos": [
+      "Ciencia ficción",
+      "Animación",
+      "Aventura",
+      "Acción"
+    ],
     "servidores": [
       {
         "nombre": "Morencius",
@@ -1173,12 +1179,6 @@
         "nombre": "VOE",
         "url": "https://voe.sx/e/3jvy8pzhcfht"
       }
-    ],
-    "generos": [
-      "Ciencia ficción",
-      "Animación",
-      "Aventura",
-      "Acción"
     ]
   },
   {
