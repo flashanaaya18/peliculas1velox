@@ -1,5 +1,30 @@
 [
   {
+    "id": 1232667,
+    "titulo": "Te extraño, te amo",
+    "sinopsis": "Una viuda, afligida por la muerte de su marido, entabla una inesperada relación con el asistente de su hijo, del que está distanciada, mientras ambos organizan el funeral de su esposo.",
+    "poster": "https://image.tmdb.org/t/p/w500/rSyzo9gfS0wdUZl0u9WqRRFNUXv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fH4pbzTCP1EWbZ1BoCtx7lgRb1F.jpg",
+    "anio": "2026",
+    "generos": [
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/ajjuelp72h93"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/77kdthezabtt"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/yctuumjnsogx"
+      }
+    ]
+  },
+  {
     "id": 1074074,
     "titulo": "El ser querido",
     "sinopsis": "El aclamado director de cine Esteban Martínez (Bardem) es una leyenda tanto por sus películas como por un pasado marcado por la violencia y los excesos. En su nuevo proyecto, le ofrece un papel a su hija Emilia (Luengo) con el pretexto de ayudarla a relanzar su estancada carrera como actriz. Convivir en el set fomentará una cercanía que no han compartido en años, pero también reabrirá viejas heridas que nunca cicatrizaron.",
