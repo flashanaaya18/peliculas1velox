@@ -1190,26 +1190,26 @@
     "poster": "https://image.tmdb.org/t/p/w500/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
     "anio": "2026",
-    "servidores": [
-      {
-        "nombre": "Streamtape",
-        "url": "https://streamtape.com/e/KGzo8mWwYWt01Gw"
-      },
-      {
-        "nombre": "EarnVids",
-        "url": "https://earnvids.com/embed/1pm0m00c5it0"
-      },
-      {
-        "nombre": "StreamHG",
-        "url": "https://streamhg.com/e/iagbard88gdn"
-      }
-    ],
     "generos": [
       "Animación",
       "Aventura",
       "Familia",
       "Fantasía",
       "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/bxqsz6wbvl3g"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/77zdodka93dq"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/jksvbirf23yh"
+      }
     ]
   },
   {
