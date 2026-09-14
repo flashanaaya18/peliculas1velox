@@ -1,5 +1,32 @@
 [
   {
+    "id": 1280738,
+    "titulo": "The Furious",
+    "sinopsis": "Tras el secuestro de su hija y atrapado en una red de corrupción policial, un padre desesperado se une a un astuto periodista para tomar la justicia por sus propias manos. En un territorio hostil dominado por mafias, su única opción para rescatar a quienes aman será desatar una guerra sin cuartel a puño limpio.",
+    "poster": "https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/jzaoa7cole6h"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/j7ycut8fe199"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/u5gh2h2eeplo"
+      }
+    ]
+  },
+  {
     "id": 1487864,
     "titulo": "Nando entre dos mundos: Una película de Sintonía",
     "sinopsis": "Nando, atrapado entre la vida familiar y sus obligaciones con el inframundo criminal, enfrenta una encrucijada imposible: decidir dónde depositar su lealtad.",
