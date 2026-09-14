@@ -1,5 +1,34 @@
 [
   {
+    "id": 350499,
+    "titulo": "Pokémon: Hoopa y un duelo histórico",
+    "sinopsis": "¡El Pokémon singular Hoopa es la estrella de la película Pokémon Hoopa y un duelo histórico! Cuando Ash, Pikachu y sus amigos visitan una desierta ciudad al lado del mar, se encuentran con el Pokémon singular Hoopa, que tiene la habilidad de hacerse con todo lo que se le antoja, incluidos personas y Pokémon, con sus mágicos anillos. Después de un extraño y escalofriante incidente, se enteran de la historia de un valiente héroe que, mucho tiempo atrás, logró apaciguar la furia de un aterrador Pokémon. ¡Pero ahora existe el peligro de que la amenaza que ha permanecido contenida durante muchos años quede desatada de nuevo! ¿Podrá Ash ayudar a su nuevo amigo a que supere su lado oscuro... o terminará el peligroso secreto desembocando en un duelo de leyendas?",
+    "poster": "https://image.tmdb.org/t/p/w500/8Xpjk4WX2l1LnvW4A13uLWWYC8g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/crFk9m8DK9lNqlOa7AGTvYsO6Qn.jpg",
+    "anio": "2015",
+    "generos": [
+      "Familia",
+      "Aventura",
+      "Animación",
+      "Acción",
+      "Fantasía"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/0aymk71zfbir"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/ub95y1u193hv"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/nktcqtdnc4au"
+      }
+    ]
+  },
+  {
     "id": 18722,
     "titulo": "Mr. Baseball",
     "sinopsis": "",
