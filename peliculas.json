@@ -1,5 +1,30 @@
 [
   {
+    "id": 1180894,
+    "titulo": "Bajo tus pies",
+    "sinopsis": "Isabel se muda con sus dos hijos a un edificio prestigioso con un alquiler económico y un curioso sistema de admisión, pero tres ancianas vecinas del piso de abajo perturban su tranquilidad con gritos nocturnos que dan un giro oscuro a sus vidas.",
+    "poster": "https://image.tmdb.org/t/p/w500/quKC1fvq0yqi7Xej9MBAUNBcXsC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/wRRvCEb871lZPcssGwEnJt0l3KN.jpg",
+    "anio": "2026",
+    "generos": [
+      "Terror"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/mwdsmi4y10oj"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/mjusdkmm8oic"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/4iwbj6jp3q0w"
+      }
+    ]
+  },
+  {
     "id": 1375646,
     "titulo": "Zona Cero",
     "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
