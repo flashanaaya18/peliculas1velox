@@ -1,5 +1,30 @@
 [
   {
+    "id": 665877,
+    "titulo": "Mentes Brillantes",
+    "sinopsis": "Basado en una historia real de 1998, cinco adolescentes latinos y negros del gueto más desatendido de Miami se abren camino hacia el Campeonato Nacional de Ajedrez bajo la guía de su poco convencional pero inspirador maestro.",
+    "poster": "https://image.tmdb.org/t/p/w500/bc91LcW7Yce2oKJ6K1sOUTTMMHf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/h0NZTkfmEJosQ52WSnzmN0lDSXG.jpg",
+    "anio": "2020",
+    "generos": [
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/xfr8g2x8u9xs"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/cyiwi8ontbyl"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/yqyenn7b0lys"
+      }
+    ]
+  },
+  {
     "id": 1506560,
     "titulo": "La Furia de los Thundermans",
     "sinopsis": "Los nuevos poderes energéticos de Chloe dividen a los Thundermans sobre si entrenarla en casa o enviarla a una escuela de héroes. Pero cuando la decana de la escuela revela un peligroso plan, la familia se reúne para salvar a Chloe y a la ciudad.",
