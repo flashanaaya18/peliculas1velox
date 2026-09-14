@@ -1,5 +1,31 @@
 [
   {
+    "id": 1288445,
+    "titulo": "Código: Venganza",
+    "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
+    "poster": "https://image.tmdb.org/t/p/w500/iHPYm59D7kF8yQr03hewusoyNET.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/g3yrdzopfyz4"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/gshzq2oho5hj"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/hjx8rxa1uuay"
+      }
+    ]
+  },
+  {
     "id": 1621552,
     "titulo": "La captura",
     "sinopsis": "Dos policías mexicanos, durante un control rutinario en las últimas horas de su turno, detienen un coche robado y se encuentran cara a cara con uno de los delincuentes más peligrosos del mundo.",
