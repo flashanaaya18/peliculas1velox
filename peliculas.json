@@ -1,5 +1,33 @@
 [
   {
+    "id": 1744462,
+    "titulo": "Una mirada extendida a Grand Theft Auto VI",
+    "sinopsis": "Descubre la nueva evolución de la revolucionaria saga de Grand Theft Auto.",
+    "poster": "https://image.tmdb.org/t/p/w500/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/po0uFYwWNByHQzHLCVJ6FetkN4M.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Acción",
+      "Aventura",
+      "Crimen"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/yk3idtryau5x"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/blvnrnnl0dap"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/fqdfnqxzk4uz"
+      }
+    ]
+  },
+  {
     "id": 37709,
     "titulo": "Mirageman",
     "sinopsis": "Maco Gutierrez, un obsesivo artista marcial, trabaja como guardia de seguridad en un topless para financiar el tratamiento de su hermano menor que se encuentra postrado en un hospital psiquiátrico. Por azar, Maco se topa una noche con un robo a mano armada el cual detiene con éxito. Al día siguiente los noticieros hablarán de un nuevo héroe incógnito. Su hermano menor comenzará a tener notorias mejorías tras la aparición de este justiciero, razón suficiente para que Maco comience su carrera de héroe enmascarado para sanar a su hermano.",
