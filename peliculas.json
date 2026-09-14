@@ -1,5 +1,32 @@
 [
   {
+    "id": 9907,
+    "titulo": "La Granja",
+    "sinopsis": "Como a otros animales en el granero, a Otis el toro (Kevin James) le gusta cantar y jugar mientras el granjero no está. Sin embargo, el cuidadoso bovino pronto deberá tener el coraje suficiente para convertirse en el líder cuando, inesperadamente, se encuentra en una situación de gran responsabilidad.",
+    "poster": "https://image.tmdb.org/t/p/w500/71ck2GMBJAwrnjUmUxpPyUAp7Yp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/eiU6of30k9VaXxYPq682VwM2D5q.jpg",
+    "anio": "2006",
+    "generos": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/j8fxic6czvkn"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/v28zy9iynibw"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/hwkjecauvalk"
+      }
+    ]
+  },
+  {
     "id": 1743296,
     "titulo": "Canelones",
     "sinopsis": "Canelones, inspirada en hechos reales, es un thriller nocturno que sigue el secuestro de Chichita, la madre del escritor Hernán Casciari, a manos de Daniel Olesnik en 2015. Olesnik busca saldar una deuda de sangre: vengar la broma adolescente de Hernán y su amigo Chiri en 1987, que empujó a su propia madre al suicidio. Una ineludible espiral de venganza, asfixiante y fatal, que transcurre en una única noche.",
