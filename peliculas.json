@@ -1266,23 +1266,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/1eXCsF4GXcDJoBL4BkJHwzMwshh.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
     "anio": "2026",
-    "servidores": [
-      {
-        "nombre": "Streamtape",
-        "url": "https://streamtape.com/e/46eOM04XGVcKDe4"
-      },
-      {
-        "nombre": "EarnVids",
-        "url": "https://earnvids.com/embed/8bfgr30u3muy"
-      },
-      {
-        "nombre": "StreamHG",
-        "url": "https://hgcloud.to/e/s4vu5a4p2qcn"
-      }
-    ],
     "generos": [
       "Comedia",
       "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3szdiswpvebs"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/zty9rsvvyxzt"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/jnk7uwhtdy1r"
+      }
     ]
   },
   {
