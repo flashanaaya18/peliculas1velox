@@ -1340,23 +1340,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
     "backdrop": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
     "anio": "2026",
-    "servidores": [
-      {
-        "nombre": "Streamtape",
-        "url": "https://streamtape.com/e/yDx7JjP893C1Dja"
-      },
-      {
-        "nombre": "Morencius",
-        "url": "https://morencius.com/embed/o7paa0p2atan"
-      },
-      {
-        "nombre": "StreamHG",
-        "url": "https://hgcloud.to/e/1gv3gqdqr9rp"
-      }
-    ],
     "generos": [
       "Romance",
       "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/gpsd5bdudc7q"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/8bezwfo83b44"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/k7at072439ow"
+      }
     ]
   },
   {
