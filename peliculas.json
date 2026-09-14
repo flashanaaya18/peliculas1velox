@@ -1,5 +1,30 @@
 [
   {
+    "id": 1739202,
+    "titulo": "Al descubierto: Raygun, la breakdancer viral",
+    "sinopsis": "Desde académica australiana hasta meme global, la breakdancer «Raygun» relata su peculiar camino hasta los Juegos Olímpicos… y la infamia que le siguió.",
+    "poster": "https://image.tmdb.org/t/p/w500/3pnlJjsGtrUp3cPEOLzkR0sPQAK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/gye43uu4ln56"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/51yp35rgeqkr"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/u95wqrhrr87o"
+      }
+    ]
+  },
+  {
     "id": 1752159,
     "titulo": "Turning Point: Generation 9/11",
     "sinopsis": "Veinticinco años después del 11-S, este documental analiza cómo aquel fatídico día marcó a toda una nueva generación. Desde los niños que perdieron a sus padres en los atentados a los periodistas que dieron sus primeros pasos profesionales cubriendo la guerra contra el terrorismo, pasando por los jóvenes afganos y marines que sufrieron las consecuencias de la caótica retirada de EE. UU. de Afganistán: sus estremecedores testimonios muestran que el legado del 11-S no se mide solo por su trascendencia histórica, sino por las vidas que aún sigue marcando.",
