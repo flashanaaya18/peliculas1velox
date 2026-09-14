@@ -1,5 +1,31 @@
 [
   {
+    "id": 82393,
+    "titulo": "Mandrill",
+    "sinopsis": "",
+    "poster": "https://image.tmdb.org/t/p/w500/7WeUeJeFmdXvQEjN8OS3g2GQJWi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4fwMNevzpQ8b5zJU8TSGcD94T5b.jpg",
+    "anio": "2009",
+    "generos": [
+      "Acción",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/gh853qpem14w"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/alog1ijfc0mr"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/6uesanh7ohck"
+      }
+    ]
+  },
+  {
     "id": 1204680,
     "titulo": "Coyote vs. Acme",
     "sinopsis": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
