@@ -1,5 +1,32 @@
 [
   {
+    "id": 1504358,
+    "titulo": "No se desea buena suerte",
+    "sinopsis": "Sophie Birenbaum está lista para ser el centro de atención como la protagonista del musical escolar, hasta que debe enfrentar más drama en casa que en el escenario.",
+    "poster": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Música",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/qfhhcqgxxzi6"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/7b4we5hzjtiy"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/lx8nkmcmcwxy"
+      }
+    ]
+  },
+  {
     "id": 1589248,
     "titulo": "Mi mejor amigo, su novia y yo",
     "sinopsis": "Olli y Matze son dos mejores amigos que viven, trabajan y planean viajar por el mundo juntos…, hasta que el romance de Matze y Rebecca pone todo patas arriba.",
