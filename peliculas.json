@@ -1,5 +1,47 @@
 [
   {
+    "id": 1093994,
+    "titulo": "Un Policía de Texas",
+    "sinopsis": "Sigue a una Texas Ranger Jane cuando es reclutada por la inteligencia británica para rastrear a un peligroso terrorista y evitar que ataque Londres.",
+    "poster": "https://image.tmdb.org/t/p/w500/akR6GgKjKhXeTWabVCqjNllt75D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/ihLKlPCcC0ZZICh1fxlzsbXbGEq.jpg",
+    "anio": "2023",
+    "generos": [
+      "Acción",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/553qd5apeiz1"
+      },
+      {
+        "nombre": "Filemoon",
+        "url": "https://bysejikuar.com/e/aavxojuv64dh"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://filelions.to/v/0s4058d541wd"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/cfbpm8183t09"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/ye43ezrmwrbz"
+      },
+      {
+        "nombre": "Streamtape",
+        "url": "https://streamtape.com/e/oAv0pXoK71uJqAb"
+      },
+      {
+        "nombre": "Netu",
+        "url": "https://waaw.to/f/PgSNRXWIlUNI"
+      }
+    ]
+  },
+  {
     "id": 12230,
     "titulo": "La noche de las narices frías",
     "sinopsis": "Cuando una camada de cachorros dálmatas es secuestrada por los secuaces de Cruella de Vil, los padres deben encontrarlos antes de que ella los use para una diabólica exposición de moda.",
