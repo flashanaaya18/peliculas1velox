@@ -1,5 +1,36 @@
 [
   {
+    "id": 1284465,
+    "titulo": "La muerte de Robin Hood",
+    "sinopsis": "Una cruda reinterpretación de la leyenda de Robin Hood donde un solitario marcado por la batalla, atormentado por su violento pasado, encuentra la redención a través de una mujer enigmática tras una grave herida.",
+    "poster": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "anio": "2026",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Acción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/pygydaoztn27"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/4eat2fks5p7t"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/q6mpnaomogyj"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/b2luaumh5aiu"
+      }
+    ]
+  },
+  {
     "id": 1612018,
     "titulo": "Jackass: La última y nos vamos",
     "sinopsis": "La quinta y última entrega de la franquicia Jackass, donde el equipo se embarca en una última y descabellada cruzada.",
