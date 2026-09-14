@@ -1,5 +1,32 @@
 [
   {
+    "id": 10345,
+    "titulo": "K-nino",
+    "sinopsis": "Dooley está trabajando en una operación de vigilancia de un traficante de drogas, Ken Lyman, y casi pierde la vida cuando un helicóptero hace estallar su coche por encargo de Lyman. Cuando Mike pide al departamento un nuevo coche, le proporcionan un nuevo compañero, un perro policía llamado Jerry Lee. Pero Jerry tiene el mismo problema que Dooley: no sabe trabajar en equipo. Y aunque Jerry Lee destruya el coche de Dooley, su casa o su vida sexual, ambos van ganando respeto el uno por el otro, aunque no logran ponerse de acuerdo en quién es el jefe.",
+    "poster": "https://image.tmdb.org/t/p/w500/aroGPuJTZ6hz0okkQr39JwDFHJN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vDBdstmX7z7g0yMQMWtWHJszJ4q.jpg",
+    "anio": "1989",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Crimen"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/j4mw38ylvu8x"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/dpqikrwxhttj"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/t99wis6kthqt"
+      }
+    ]
+  },
+  {
     "id": 1516698,
     "titulo": "Sunrise: El último amanecer",
     "sinopsis": "Basada en la exitosa novela, Sunrise: El último amanecer narra la historia de Ry, una universitaria con una enfermedad crónica que viaja a Mallorca junto a su madre. Cuando se enamora de Julián, descubre una nueva forma de vivir, pero, antes de que termine el verano, el deterioro de su salud y los secretos familiares ponen todo en riesgo.",
