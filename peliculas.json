@@ -1,5 +1,31 @@
 [
   {
+    "id": 1516698,
+    "titulo": "Sunrise: El último amanecer",
+    "sinopsis": "Basada en la exitosa novela, Sunrise: El último amanecer narra la historia de Ry, una universitaria con una enfermedad crónica que viaja a Mallorca junto a su madre. Cuando se enamora de Julián, descubre una nueva forma de vivir, pero, antes de que termine el verano, el deterioro de su salud y los secretos familiares ponen todo en riesgo.",
+    "poster": "https://image.tmdb.org/t/p/w500/18HnXofpKuoD8oMdRj6GPvmdEJN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+    "anio": "2026",
+    "generos": [
+      "Romance",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/tfrhwujdd89m"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/fm6eea38qqnq"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/qjlryismqxgy"
+      }
+    ]
+  },
+  {
     "id": 1741201,
     "titulo": "Chompoo: La niña desaparecida y olvidada",
     "sinopsis": "Cuando una niña desaparece de un remoto pueblo, la investigación policial desencadena una intensa cobertura mediática. La atención se centra entonces en el principal sospechoso, cuya imagen pública se transforma hasta convertirlo en una inesperada celebridad.",
