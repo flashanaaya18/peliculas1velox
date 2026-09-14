@@ -1,5 +1,31 @@
 [
   {
+    "id": 1418582,
+    "titulo": "Quinze Dias",
+    "sinopsis": "Sigue a Felipe, un joven tímido con sobrepeso que sufre acoso escolar. Sus planes de pasar unas vacaciones tranquilas se alteran cuando su madre hospeda durante dos semanas a Caio, su vecino y amor de la infancia, transformando la tensión inicial en un tierno viaje de autodescubrimiento y romance.",
+    "poster": "https://image.tmdb.org/t/p/w500/f52tZybwHnomYCkRhe9rHMSEz5j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Romance"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/ko0n5tw0n0q9"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/lkbdcd012v7q"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/gzahxrbr4vhf"
+      }
+    ]
+  },
+  {
     "id": 1315843,
     "titulo": "El turno del papá",
     "sinopsis": "Roberta está cansada de cuidar la casa y a los niños ella sola, así que decide tomarse unas vacaciones, dejando a su esposo a cargo de los niños. El resultado es que la casa se vuelve un caos mientras Fred intenta equilibrar las demandas familiares con sus responsabilidades laborales. Entre risas y desorden, la película muestra cómo una familia puede superar los desafíos cuando se mantienen unidos.",
