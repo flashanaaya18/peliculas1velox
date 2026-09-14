@@ -1,5 +1,31 @@
 [
   {
+    "id": 1743296,
+    "titulo": "Canelones",
+    "sinopsis": "Canelones, inspirada en hechos reales, es un thriller nocturno que sigue el secuestro de Chichita, la madre del escritor Hernán Casciari, a manos de Daniel Olesnik en 2015. Olesnik busca saldar una deuda de sangre: vengar la broma adolescente de Hernán y su amigo Chiri en 1987, que empujó a su propia madre al suicidio. Una ineludible espiral de venganza, asfixiante y fatal, que transcurre en una única noche.",
+    "poster": "https://image.tmdb.org/t/p/w500/s2g8wLNs6G5XYa5ivfUNuWbQTKQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hw8VcGRqjc0LAjdCiHVOsWFF1Ey.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/3577s6yr57pm"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/jtkcky9fmi69"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/d7fqvcxxs1mc"
+      }
+    ]
+  },
+  {
     "id": 429200,
     "titulo": "Good Time: Viviendo al límite",
     "sinopsis": "Después de que un fallido robo a un banco lleva a su hermano menor a prisión, Connie Nikas se embarca en una retorcida odisea a través del inframundo de la ciudad de Nueva York para sacar a su hermano Nick de la cárcel.",
