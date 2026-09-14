@@ -1,5 +1,48 @@
 [
   {
+    "id": 83533,
+    "titulo": "Avatar: Fuego y ceniza",
+    "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+    "poster": "https://image.tmdb.org/t/p/w500/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+    "anio": "2025",
+    "generos": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "servidores": [
+      {
+        "nombre": "Vimeus",
+        "url": "https://vimeus.com/e/movie?tmdb=83533&view_key=D3dX7LTo6CgnhLGPyKahD9gDNZ2n82wJ2mpWu-SjS0M&title=Pelisjuanita&theme=minimal&autoplay=1"
+      },
+      {
+        "nombre": "Fastserver",
+        "url": "https://pelisplayer.fortamomar.workers.dev/?id=sGtHW7ACJjjeotuTAShSX-Avatar-Fire-and-Ash"
+      },
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/9v0848reg1md"
+      },
+      {
+        "nombre": "Byse",
+        "url": "https://bysejikuar.com/e/27486hx2e8a7"
+      },
+      {
+        "nombre": "Earnvids",
+        "url": "https://vidhidepro.com/v/4slh849ewqx8"
+      },
+      {
+        "nombre": "Dood",
+        "url": "https://doodstream.com/e/z0b7rhkd7e8p"
+      },
+      {
+        "nombre": "Netu",
+        "url": "https://player.poseidonhd2.co/player.php?h=eH0zYI4_M43LKCz95JRQwvX6U6KGLvg.a0YW5.clQTQ-"
+      }
+    ]
+  },
+  {
     "id": 1368337,
     "titulo": "La Odisea",
     "sinopsis": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
