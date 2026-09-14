@@ -1,5 +1,36 @@
 [
   {
+    "id": 1612018,
+    "titulo": "Jackass: La última y nos vamos",
+    "sinopsis": "La quinta y última entrega de la franquicia Jackass, donde el equipo se embarca en una última y descabellada cruzada.",
+    "poster": "https://image.tmdb.org/t/p/w500/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+    "anio": "2026",
+    "generos": [
+      "Acción",
+      "Comedia",
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/gi65i2h7y9um"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/7o4ulocwo67t"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/wrpae7blryoh"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/s675at4lc9ey"
+      }
+    ]
+  },
+  {
     "id": 1315772,
     "titulo": "Minions & Monstruos",
     "sinopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
