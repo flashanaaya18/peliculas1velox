@@ -1,5 +1,38 @@
 [
   {
+    "id": 1315772,
+    "titulo": "Minions & Monstruos",
+    "sinopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+    "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "anio": "2026",
+    "generos": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Fantasía"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/hyxdwdtkjlnq"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/l1te3xfvf0w1"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/qutlabzvrdm3"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/72ba3qat6yoi"
+      }
+    ]
+  },
+  {
     "id": 1081003,
     "titulo": "Supergirl",
     "sinopsis": "Mientras celebra su cumpleaños número 21, Kara Zor-El viaja por la galaxia con su perro Krypto, durante el cual conoce a la joven Ruthye Marye Knoll y emprende una \"búsqueda asesina de venganza\".",
