@@ -1,5 +1,32 @@
 [
   {
+    "id": 429200,
+    "titulo": "Good Time: Viviendo al límite",
+    "sinopsis": "Después de que un fallido robo a un banco lleva a su hermano menor a prisión, Connie Nikas se embarca en una retorcida odisea a través del inframundo de la ciudad de Nueva York para sacar a su hermano Nick de la cárcel.",
+    "poster": "https://image.tmdb.org/t/p/w500/r5NnuVFCoQcdi9rSJkfHEx3TJ6k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+    "anio": "2017",
+    "generos": [
+      "Crimen",
+      "Suspense",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/sthxt1z0uq67"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/hyh0ypfk6xiq"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/jswcaolunymi"
+      }
+    ]
+  },
+  {
     "id": 665877,
     "titulo": "Mentes Brillantes",
     "sinopsis": "Basado en una historia real de 1998, cinco adolescentes latinos y negros del gueto más desatendido de Miami se abren camino hacia el Campeonato Nacional de Ajedrez bajo la guía de su poco convencional pero inspirador maestro.",
