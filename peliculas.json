@@ -1,5 +1,32 @@
 [
   {
+    "id": 1204680,
+    "titulo": "Coyote vs. Acme",
+    "sinopsis": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+    "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/so0fh3eykldw"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/815st8k923ii"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/owst3scjljpd"
+      }
+    ]
+  },
+  {
     "id": 1232667,
     "titulo": "Te extraño, te amo",
     "sinopsis": "Una viuda, afligida por la muerte de su marido, entabla una inesperada relación con el asistente de su hijo, del que está distanciada, mientras ambos organizan el funeral de su esposo.",
