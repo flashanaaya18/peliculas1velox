@@ -1,5 +1,36 @@
 [
   {
+    "id": 1308767,
+    "titulo": "El Joven Washington",
+    "sinopsis": "Se basa en la juventud de George Washington —Padre Fundador y primer presidente de los Estados Unidos— y se centra en sus experiencias y su mando militar durante la guerra Franco-India, entre 1753 y 1755.",
+    "poster": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+    "anio": "2026",
+    "generos": [
+      "Historia",
+      "Bélica",
+      "Drama"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/2xnybvccltdf"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/rnm9yl3w4kan"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/egatbotcnabk"
+      },
+      {
+        "nombre": "Doodstream",
+        "url": "https://doodstream.com/e/rdvvbnkipqpd"
+      }
+    ]
+  },
+  {
     "id": 969681,
     "titulo": "Spider-Man: Un nuevo día",
     "sinopsis": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
