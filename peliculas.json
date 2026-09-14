@@ -1,5 +1,33 @@
 [
   {
+    "id": 1679730,
+    "titulo": "La heroína del moño",
+    "sinopsis": "Cuando el Nergal destruye su reino, la princesa Sapphire despierta sus poderes como la heroína del moño y lucha para evitar que su nuevo hogar sufra el mismo destino.",
+    "poster": "https://image.tmdb.org/t/p/w500/s1O0nlq5JqwLbbCXpNEFzT2sxQh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "anio": "2026",
+    "generos": [
+      "Animación",
+      "Fantasía",
+      "Drama",
+      "Acción"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/a2v8vg31b43j"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/qzo018gk48as"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/qqsd5n5uy7de"
+      }
+    ]
+  },
+  {
     "id": 1280738,
     "titulo": "The Furious",
     "sinopsis": "Tras el secuestro de su hija y atrapado en una red de corrupción policial, un padre desesperado se une a un astuto periodista para tomar la justicia por sus propias manos. En un territorio hostil dominado por mafias, su única opción para rescatar a quienes aman será desatar una guerra sin cuartel a puño limpio.",
