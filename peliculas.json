@@ -1,5 +1,33 @@
 [
   {
+    "id": 50063,
+    "titulo": "He-Man y She-Ra: La Película",
+    "sinopsis": "¡Llega la Navidad a los mundos mágicos de Eternia y Etheria de la mano del Especial de navidad de He-Man y She-Ra! Orko llega accidentalmente a la Tierra durante la época navideña. Se hace amigo de dos niños, que le cuentan como la Navidad inspira alegría y generosidad. Cuando, por fin, logran volver a Eternia, el Espíritu Navideño se esparce por todo el Palacio Real. Sin embargo, tal desborde de generosidad atrae la atención de Horde Prime y Skeletor. ¿Bastará con las fuerzas de He-Man, She-Ra y el Espíritu de la Navidad para detenerlos?",
+    "poster": "https://image.tmdb.org/t/p/w500/4XvujyDERt8WGI7sJbAbHGi3zXv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jlQoEyTRwu3sM56cfsWfEyHSryc.jpg",
+    "anio": "1985",
+    "generos": [
+      "Animación",
+      "Aventura",
+      "Familia",
+      "Película de TV"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/g2fy8cd7osl4"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/8cnn8ouwrcku"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/wbhmilidp5il"
+      }
+    ]
+  },
+  {
     "id": 9907,
     "titulo": "La Granja",
     "sinopsis": "Como a otros animales en el granero, a Otis el toro (Kevin James) le gusta cantar y jugar mientras el granjero no está. Sin embargo, el cuidadoso bovino pronto deberá tener el coraje suficiente para convertirse en el líder cuando, inesperadamente, se encuentra en una situación de gran responsabilidad.",
