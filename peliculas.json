@@ -1,5 +1,30 @@
 [
   {
+    "id": 1323015,
+    "titulo": "Obispo Rojo",
+    "sinopsis": "En la década de 1970, el obispo mexicano Sergio Méndez Arceo se enfrenta audazmente a la Inquisición y desafía a las dictaduras latinoamericanas, esforzándose por encender una revolución espiritual global.",
+    "poster": "https://image.tmdb.org/t/p/w500/5OspBxdBUawM3f7WWAQFsMUGA5p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qoGRBMowQaeF8Ha3PIwYY8ESwVi.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/m3nlea76grtt"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/49crf9v6j0o8"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/3mgehcdoa7zw"
+      }
+    ]
+  },
+  {
     "id": 65989,
     "titulo": "Sudor frío",
     "sinopsis": "",
