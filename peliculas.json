@@ -1,5 +1,32 @@
 [
   {
+    "id": 860508,
+    "titulo": "Susurran tu nombre",
+    "sinopsis": "Tras la desaparición de su hijo, un viudo recurre a la ayuda de su padre ausente: un detective retirado que, años atrás, encarceló al asesino serial vinculado con este caso.",
+    "poster": "https://image.tmdb.org/t/p/w500/pBooYCjOyHUY1UFBrrXfEa6VvwZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "anio": "2026",
+    "generos": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/oh4p4ftvbixu"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/xb49vjg3udnh"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/mvakxaehxlbo"
+      }
+    ]
+  },
+  {
     "id": 772506,
     "titulo": "Amor es amor",
     "sinopsis": "Amor es amor es una película mexicana dirigida por Rob Schneider.",
