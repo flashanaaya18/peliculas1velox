@@ -1,5 +1,30 @@
 [
   {
+    "id": 1589248,
+    "titulo": "Mi mejor amigo, su novia y yo",
+    "sinopsis": "Olli y Matze son dos mejores amigos que viven, trabajan y planean viajar por el mundo juntos…, hasta que el romance de Matze y Rebecca pone todo patas arriba.",
+    "poster": "https://image.tmdb.org/t/p/w500/slZ1c32UqVgl94XV3CMDFjiZdTZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/ypveo4q08w45"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/s0dsjnbxvqzo"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/vrdw2bz9lvag"
+      }
+    ]
+  },
+  {
     "id": 1632473,
     "titulo": "Esto, aquello y todo lo demás",
     "sinopsis": "Una guionista ha reconstruido su vida con gran esfuerzo, pero todo empieza a desmoronarse cuando su madre reaparece tras 27 años con un secreto.",
