@@ -1,5 +1,30 @@
 [
   {
+    "id": 1496903,
+    "titulo": "Caravaggio",
+    "sinopsis": "Tras cinco años de preparación, este es el documental más extenso jamás realizado sobre Caravaggio. Con una obra maestra tras otra y el testimonio de destacados expertos de todo el mundo, sumerge al público en los relatos ocultos de la vida del artista, desentrañando pistas incrustadas en su arte.",
+    "poster": "https://image.tmdb.org/t/p/w500/dRfDBbdVFsiRAKC5dhKcsIlPJI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/iIWciu5fiLSyUQHYzr6KMpLYKu2.jpg",
+    "anio": "2025",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/mzcmwwvkenod"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/ztp8lhzejspx"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/pvqiq5ttmwbq"
+      }
+    ]
+  },
+  {
     "id": 1744876,
     "titulo": "Fito Páez: El mundo cabe en una canción",
     "sinopsis": "Un documental que observa, escucha e interactúa con Fito Páez desde una profunda intimidad. La cámara, casi invisible, es testigo de cada uno de sus movimientos, acompañándolo durante más de un año entre grabaciones, ensayos, giras y presentaciones en las principales ciudades de América Latina, Europa y Estados Unidos. Es también un recorrido por la vida de uno de los artistas más grandes de la música en español: sus amores y desamores, sus hijos y amistades, los excesos, las tragedias, los fracasos y los éxitos.",
