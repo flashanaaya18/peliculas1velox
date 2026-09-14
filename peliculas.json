@@ -1,5 +1,33 @@
 [
   {
+    "id": 426249,
+    "titulo": "Lords of Chaos",
+    "sinopsis": "La historia de un joven que quiere darle un nuevo giro a la escena del black metal en Oslo, Noruega, proyecto que trae fatales consecuencias para todos los involucrados. Biopic de la banda de black metal noruego Mayhem",
+    "poster": "https://image.tmdb.org/t/p/w500/5jDShbwEsILXa2AAmAbOLxyNwyq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/oaDTXNmyqeNEEBat3h4ijiu27jv.jpg",
+    "anio": "2018",
+    "generos": [
+      "Drama",
+      "Suspense",
+      "Música",
+      "Terror"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/4bwqeblbiqb0"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/nzchuoslbqak"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/cx2esuci0cla"
+      }
+    ]
+  },
+  {
     "id": 950028,
     "titulo": "La invitación",
     "sinopsis": "El matrimonio de Joe y Angela pende de un hilo. Cuando invitan a sus enigmáticos vecinos de arriba a una cena, la noche toma un rumbo inesperado.",
