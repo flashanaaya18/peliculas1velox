@@ -1,5 +1,30 @@
 [
   {
+    "id": 1397385,
+    "titulo": "Hermanito",
+    "sinopsis": "Dos hermanos y un viaje inesperado que pone a prueba su vínculo La vida perfectamente organizada de Rudd, un exitoso agente inmobiliario, da un giro inesperado cuando Marcus, su excéntrico y problemático hermano menor, reaparece en su vida después de mucho tiempo. Obligados a emprender un caótico viaje por carretera, juntos deberán enfrentarse a viejos conflictos, recuerdos del pasado y diferencias que nunca lograron resolver.",
+    "poster": "https://image.tmdb.org/t/p/w500/s8mudAYQcHmVoFSamqyv1Ron527.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/30h3q7ei1hzx"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/1hf4eqsxrsze"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/iu7xgly1kral"
+      }
+    ]
+  },
+  {
     "id": 1202033,
     "titulo": "Enola Holmes 3",
     "sinopsis": "La aventura sigue a la detective Enola Holmes hasta Malta, donde sus planes de matrimonio se desmoronan cuando la desaparición de Sherlock la sumerge en un peligroso caso.",
