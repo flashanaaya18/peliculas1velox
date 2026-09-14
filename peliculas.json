@@ -1,5 +1,31 @@
 [
   {
+    "id": 1530121,
+    "titulo": "The Girl in the River",
+    "sinopsis": "Sigue a un criminólogo experimentado (Devon Sawa) y a una joven psicóloga forense (Maggie Grace) que viajan a un remoto pueblo estadounidense para investigar el asesinato de una niña y la misteriosa desaparición de su hermana gemela.",
+    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+    "anio": "2026",
+    "generos": [
+      "Crimen",
+      "Suspense"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/zjxe5qrjq88t"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/26s4klgqajsh"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/ingzqxuu7yyj"
+      }
+    ]
+  },
+  {
     "id": 1127384,
     "titulo": "Impacto Mortal",
     "sinopsis": "Un grupo de pasajeros internacionales en ruta de Los Ángeles a Shanghai se ven obligados a realizar un aterrizaje de emergencia en aguas infestadas de tiburones. Ahora deben superar el frenesí de los tiburones merodeantes.",
