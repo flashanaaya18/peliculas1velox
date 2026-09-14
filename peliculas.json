@@ -1,5 +1,30 @@
 [
   {
+    "id": 1760262,
+    "titulo": "Instadocus: El avión señuelo",
+    "sinopsis": "Una amenaza crítica. Un escape clandestino. ¿Y un camión de catering turco? Mediante relatos de testigos, «Instadocus» investiga qué pasó a bordo del avión presidencial de EE. UU.",
+    "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+    "anio": "2026",
+    "generos": [
+      "Documental"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/osw0eoogch19"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/16fdhkgnttkk"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/7tiimqshygmx"
+      }
+    ]
+  },
+  {
     "id": 1180894,
     "titulo": "Bajo tus pies",
     "sinopsis": "Isabel se muda con sus dos hijos a un edificio prestigioso con un alquiler económico y un curioso sistema de admisión, pero tres ancianas vecinas del piso de abajo perturban su tranquilidad con gritos nocturnos que dan un giro oscuro a sus vidas.",
