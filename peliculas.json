@@ -1,5 +1,30 @@
 [
   {
+    "id": 1391325,
+    "titulo": "La familia Benetón +2",
+    "sinopsis": "Toni Benetón (Leo Harlem) cree tener bajo control a su caótica y divertida familia multicultural. La llegada inesperada de dos nuevos bebés pone la casa patas arriba de nuevo, duplicando tanto los enredos como las risas y la aventura.",
+    "poster": "https://image.tmdb.org/t/p/w500/of100MlUVoC0M55mm9latkH5MVu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+    "anio": "2026",
+    "generos": [
+      "Comedia"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/casi183o8f12"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/bphyjbxpfnid"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/gmd3njyhqmys"
+      }
+    ]
+  },
+  {
     "id": 1732625,
     "titulo": "LEGO Disney Princesa: Caos mágico",
     "sinopsis": "Durante una fuerte tormenta, las princesas y sus amigos acogen a animales necesitados mientras disfrutan de un día acogedor en su castillo. Pero cuando los animales se vuelven locos, se desata el caos. Tras investigar un poco, descubren que detrás se esconde un villano y, gracias al trabajo en equipo, a su ingenio y a la ayuda de un amigo inesperado, deben restablecer el orden y salvar su hogar.",
