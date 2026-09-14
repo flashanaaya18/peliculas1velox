@@ -1,5 +1,32 @@
 [
   {
+    "id": 1202033,
+    "titulo": "Enola Holmes 3",
+    "sinopsis": "La aventura sigue a la detective Enola Holmes hasta Malta, donde sus planes de matrimonio se desmoronan cuando la desaparición de Sherlock la sumerge en un peligroso caso.",
+    "poster": "https://image.tmdb.org/t/p/w500/cepT0wSQPvynDDYAM8tHjxa1Quk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+    "anio": "2026",
+    "generos": [
+      "Aventura",
+      "Crimen",
+      "Misterio"
+    ],
+    "servidores": [
+      {
+        "nombre": "Morencius",
+        "url": "https://morencius.com/embed/szs93lewi9nd"
+      },
+      {
+        "nombre": "StreamHG",
+        "url": "https://hglink.to/e/3hd7abpnzy85"
+      },
+      {
+        "nombre": "VOE",
+        "url": "https://voe.sx/e/7hgcb8245ych"
+      }
+    ]
+  },
+  {
     "id": 1437703,
     "titulo": "Moscas",
     "sinopsis": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
