@@ -1,5 +1,32 @@
 [
   {
+    "id": 969681,
+    "titulo": "Spider-Man: Un nuevo día",
+    "sinopsis": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+    "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+    "anio": "2026",
+    "generos": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ],
+    "servidores": [
+      {
+        "nombre": "Streamwish",
+        "url": "https://streamwish.to/e/kn6gnp8786o5"
+      },
+      {
+        "nombre": "Vidhide",
+        "url": "https://vidhidepro.com/v/qdlwn132j3iy"
+      },
+      {
+        "nombre": "Voesx",
+        "url": "https://voe.sx/e/hw8e8pgexbyb"
+      }
+    ]
+  },
+  {
     "id": 1108427,
     "titulo": "Moana",
     "sinopsis": "Moana que quiere ser una viajera marinera. Cuando su isla natal se ve amenazada, Moana debe adentrarse en el mar junto a un semidiós llamado Maui para salvar a su pueblo.",
